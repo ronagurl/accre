@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:300);
+
+body{
+    height: 100vh;
+    overflow: hidden;
+    font-family: "Poppins";
+    background: #93B587;
+    margin: 0;
+}
+
+.header img {
+    max-width: 1cm;
+    max-height: 1cm;
+   
+}
+
+.header {
+    background: #031C01;
+    height: 1cm;
+    width: 100%;
+    box-sizing: border-box;
+    align-items: normal;
+
+}
+
+.header h1 {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    cursor: pointer;
+    padding-left: 45px;
+
+}
+
+nav{
+    position: fixed;
+    background: #031C01;
+    height: 100%;
+    width: 250px;
+}
